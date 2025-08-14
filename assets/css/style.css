@@ -1,0 +1,3 @@
+.site-title, .site-header .wrapper > h1, .site-header .wrapper > p {
+    display: none !important;
+}

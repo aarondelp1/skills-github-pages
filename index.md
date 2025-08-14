@@ -1,5 +1,3 @@
-# Hi there, I'm Aaron! 👋
-
 ## GitHub Spark Apps I'm Building (Requires a GitHub to Access)
 
 - **[Aaron's Music Catalog]** https://music-catalog-manage--aarondelp1.github.app/
@@ -21,7 +19,6 @@ This is a hobby project site, I dabble in retro gaming devices (I own 3x Anberni
 
 - **[The Cloudcast Podcast]** https://www.thecloudcast.net
 - **[LinkedIn]** https://www.linkedin.com/in/aarondelp/
-
 
 ---
 

@@ -1,8 +1,3 @@
-## GitHub Spark Apps I'm Building (Requires GitHub)
-
-- [Aaron's Music Catalog](https://music-catalog-manage--aarondelp1.github.app/)
-- [Aaron's AI Powered Marketing Assistant (The Spark Tutorial)](https://ai-powered-marketing--aarondelp1.github.app/)
-
 ## About Me 🚀
 
 I'm the co-host/co-founder of The Cloudcast podcast, the world's largest independent podcast on cloud computing and emerging tech with over 15 million downloads to date. I'm an AI and emerging tech junkie, and I have a passion for learning and sharing. My day job is creating technical content for AI.
@@ -14,6 +9,11 @@ This is a hobby project site, I dabble in retro gaming devices (I own 3x Anberni
 - 🌍 Languages: I plan to resurrect my computer science degree skills starting with Python
 - 📫 How to reach me: I'm off most of the social media these days so LinkedIn is the best way to reach me
 - ⚡ Fun fact: I love music and retro games. Check out what I'm playing [here](https://retroachievements.org/user/Ruttin)
+
+## GitHub Spark Apps I'm Building (Requires GitHub)
+
+- [Aaron's Music Catalog](https://music-catalog-manage--aarondelp1.github.app/)
+- [Aaron's AI Powered Marketing Assistant (The Spark Tutorial)](https://ai-powered-marketing--aarondelp1.github.app/)
 
 ## Get in Touch 📬
 

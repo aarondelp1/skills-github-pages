@@ -2,7 +2,8 @@ theme: minima
 
 minima:
   skin: classic
-  custom_css:
-    - assets/css/style.css
+# In _config.yml
+custom_css: assets/css/style.css
+
 
 

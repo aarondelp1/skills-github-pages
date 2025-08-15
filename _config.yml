@@ -1,13 +1,14 @@
-# In _config.yml
-# theme: minima
-# minima:
-#  skin: classic
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-minima:
-  skin: dark # or auto if you want it to switch with your system settings.
+remote_theme: lewismiddleton/cayman-dark
 custom_css: assets/css/style.css
+
+#theme: minima
+#minima:
+#  skin: classic
+
+
+
+
+
 
 
 

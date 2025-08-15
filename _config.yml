@@ -1,9 +1,12 @@
-theme: minima
-minima:
-  skin: classic
-
-
+remote_theme: lewismiddleton/cayman-dark
 custom_css: assets/css/style.css
+
+#theme: minima
+#minima:
+#  skin: classic
+
+
+
 
 
 
